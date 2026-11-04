@@ -11,3 +11,4 @@ credentials*
 /
 
 .env
+sql/0926_ds_sql_thebridge/
